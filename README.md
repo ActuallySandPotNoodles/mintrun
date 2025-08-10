@@ -7,7 +7,7 @@ A quite simple recreation on the Windows run command in python and qt. Also allo
 ## 🛜 Installation
 You can either get it from the releases or run this command
 
-```curl [link to install.sh] | bash```
+```curl https://raw.githubusercontent.com/ActuallySandPotNoodles/mintrun/refs/heads/main/install.sh | bash```
 
 Or just download the ``install.sh`` script and run it
 If you want, just do it all your self
@@ -19,7 +19,7 @@ Confused on how to use it? You'll figure it out.
 
 ## 🤔 Build
 Run the ``build.sh`` script or use makepkg -s
-Or build directly from the web using the command ``curl [buildsh] | bash`` or using ``[buildsh]`` and selecting ``Run From Web`` in MintRun
+Or build directly from the web using the command ``curl https://raw.githubusercontent.com/ActuallySandPotNoodles/mintrun/refs/heads/main/build.sh | bash`` or using ``https://raw.githubusercontent.com/ActuallySandPotNoodles/mintrun/refs/heads/main/build.sh`` and selecting ``Run From Web`` in MintRun
 Or using ``mintybuild build mintrun`` ___(MintyBuild does not exist yet lmao, I might make it soon)___
 
 
