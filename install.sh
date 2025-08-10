@@ -8,6 +8,7 @@ wget https://github.com/ActuallySandPotNoodles/mintrun/releases/download/Release
 pip install --break-system-packages pyside6
 echo "Actually installing it..."
 echo "Root is reqired to install"
+chown 775 ./run
 sudo mv ./run /bin/run
 #mv run.desktop ~/.local/share/applications/run.desktop
 echo "Done!"
